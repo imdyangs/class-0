@@ -1,6 +1,4 @@
-# Class 0
-
-Class Summary
+# Class 0 - Class Summary
 - Set-up
 - Terminal
 - Github
@@ -14,11 +12,11 @@ Class Summary
 
 ## Terminal
 The terminal is how programmers interact with computers. Everything we do with a keyboard and mouse can be done in the terminal. Here are some of the commands we'll be using consistently.
-- ls - List files in current directory
-- cd - Changing Directory
-- cd .. - Leave current directory
-- mkdir folder_name - Make Directory called folder_name
-- touch file_name.txt - Make File called file_name.txt
+- `ls` - List files in current directory
+- `cd` - Changing Directory
+- `cd ..` - Leave current directory
+- `mkdir folder_name` - Make Directory called folder_name
+- `touch file_name.txt` - Make File called file_name.txt
 
 ## Git / Github
 - Github is a tool used to collaborate on software projects.
