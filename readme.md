@@ -1,7 +1,12 @@
 # Class 0 - Class Summary
 - Terminal Usage
 - Git / Github Workflow
-These are tools used everyday by software developers in Silicon Valley. Github is owned by Microsoft and is used at Microsoft, Netflix, Twitter, Reddit and many more. Companies such as Google and Facebook develop and use their own version control tools so other companies don't have access to their code.
+
+These are tools used everyday by software developers in Silicon Valley.
+
+Every single developer uses a terminal, everyday. Period.
+
+Github is owned by Microsoft and is used at Microsoft, Netflix, Twitter, Reddit and many more. Companies such as Google and Facebook develop and use their own version control tools so other companies don't have access to their code.
 
 ## 🛠 Set Up
 - Install [VSCode](https://code.visualstudio.com/)
