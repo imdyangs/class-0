@@ -1,7 +1,7 @@
 # Class 0 - Class Summary
 - Terminal Usage
 - Git / Github Workflow
-These are tools used everyday by software developers in Silicon Valley. Companies such as Google and Facebook use their own
+These are tools used everyday by software developers in Silicon Valley. Github is owned by Microsoft and is used at Microsoft, Netflix, Twitter, Reddit and many more. Companies such as Google and Facebook develop and use their own version control tools so other companies don't have access to their code.
 
 ## 🛠 Set Up
 - Install [VSCode](https://code.visualstudio.com/)
@@ -32,7 +32,6 @@ Branch Related Commands
 - `git branch branch_name` - Creates a branch called branch_name. It's based off of your current branch.
 - `git branch -D branch_name` - Creates a branch called branch_name. It's based off of your current branch.
 - `git checkout branch_name` - Changes your current branch to local branch_name
-
 
 ## 📝 Assignment 0
 1. Clone this Github Repo `class-0`
