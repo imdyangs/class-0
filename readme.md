@@ -25,12 +25,15 @@ Github is a tool used to collaborate on software projects. Here are the git comm
 - `git push` - Push local branch to remote / online branch
 - `git pull` - Pulls changes on remote branch to local branch
 - `git merge branch_name` - Merge's branch_name into your local branch
+- `git status` - Displays the status of your current local branch.
 
 ## 📝 Assignment 0
-1. Clone the Github Repo `class-0`
+1. Clone this Github Repo `class-0`
 2. Create your branch. Be sure to name it properly!
 3. Make the specific changes to which you were assigned.
 4. If other people have made changes to the project, ensure their changes are merged into yours.
 5. Create a pull request (PR). Leave a note for me highlighting the changes you've made.
 
 Once I review and approve your PR and you merge it in, you're done!
+
+If you ask me a question before you ask Google a question, I will give you more homework next week.
